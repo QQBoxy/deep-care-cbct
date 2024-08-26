@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "eslint.useFlatConfig": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "always"
+  },
+  "cSpell.words": [
+    "CBCT"
+  ]
+}
